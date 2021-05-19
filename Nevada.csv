@@ -1,0 +1,6 @@
+Name (EIA ID),Status,County,Fuel,MW,Age,Capacity_Factor,Run_hours/start,Heat_rate_MMBtu/MWh,CO2_tons/MWh,Nox_lbs/MWh,MWh_high_ozone_days,Pop.,percent_non-white,percent_low-income,CVI
+Clark (GT unit) 12(2322),Operating,Clark,Natural gas,797,47,4.70%,6.7,10.8,0.6,0.3,7.70%,"133,802",55%,37%,222
+Harry Allen13 (-7082),Operating,Clark,Natural gas,187,25,4.80%,7.7,11.7,0.7,0.3,4.80%,0,NA,NA,NA
+Sun Peak Generating Station (54854),Operating,Clark,Natural gas,222,29,1.30%,5.4,12.8,0.8,1.8,10.50%,"137,033",70%,46%,235
+Tracy (GT unit) 14(2336),Operating,Storey,Natural gas,170,59,8.40%,13.1,13,0.8,0.4,6.80%,16,14%,15%,53
+Tracy (steam unit) 15(2336),Operating,Storey,Natural gas,120,57,10.30%,39.1,11.5,0.7,1.6,5.70%,16,14%,15%,53

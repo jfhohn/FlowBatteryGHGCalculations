@@ -1,0 +1,29 @@
+Name (EIA ID),Status,County,Fuel,MW,Age,Capacity_Factor,Run_hours/start,Heat_rate_MMBtu/MWh,CO2_tons/MWh,Nox_lbs/MWh,MWh_high_ozone_days,Pop.,percent_non-white,percent_low-income,CVI
+Animas (2465),Operating,San Juan,Natural,19,5,14.30%,NA,12.5,0.7,4,NA,"30,389",53%,41%,180
+,,,gas,,,,,,,,,,-37,-48,
+La Luz Energy,Operating,Valencia,Natural,42,5,4.10%,3,10,0.6,0.1,0.70%,"3,417",64%,51%,148
+Center (58284),,,gas,,,,,,,,,,-53,-63,
+LCEC Energy,Operating,Lea,Natural,47,8,11.50%,NA,9.2,0.5,24.7,NA,"7,561",71%,36%,164
+Center (57872),,,gas,,,,,,,,,,-63,-39,
+Lordsburg,Operating,Hidalgo,Natural,,,,,,,,,,78%,49%,
+,,,,88,18,1.20%,3.1,11.2,0.7,1.2,0.80%,"2,937",,,190
+Generating,,,gas,,,,,,,,,,-71,-61,
+Station (7967),,,,,,,,,,,,,,,
+Maddox (gas,Operating14,Lea,Natural,98,45,10.10%,NA,13.2,0.8,2.3,NA,7,66%,27%,146
+turbine unit) 13,,,gas,,,,,,,,,,-55,-25,
+-2446,,,,,,,,,,,,,,,
+Pyramid Station,Operating,Hidalgo,Natural,186,17,2.60%,16.7,10,9.6,1.2,3.40%,6,31%,30%,131
+-7975,,,gas,,,,,,,,,,-10,-30,
+Quay County,Operating,Quay,Oil,,,,,,,,,,59%,63%,
+,,,,27,7,0.10%,NA,19.6,1.6,19.5,NA,"5,708",,,136
+Generating,,,,,,,,,,,,,-46,-79,
+Station (58125),,,,,,,,,,,,,,,
+Reeves (2450),Operating,Bernalillo,Natural,154,60,11.50%,16,11.8,0.7,2.8,4.80%,"62,238",53%,34%,164
+,,,gas,,,,,,,,,,-38,-36,
+Rio Bravo,Operating,Bernalillo,Natural,150,29,11.20%,9.4,11.7,0.7,0.4,0%,"28,093",86%,56%,241
+-55039,,,gas,,,,,,,,,,-80,-72,
+Rio Grande (gas,Operating,Dona Ana,Natural,106,7,14.60%,12.4,9.3,0.6,0.1,6.00%,"60,230",82%,49%,171
+turbine unit) 15,,,gas,,,,,,,,,,-72,-69,
+-2444,,,,,,,,,,,,,,,
+Valencia Energy,Operating,Valencia,Natural,160,12,6.10%,12.1,10.9,0.6,0.4,2.70%,"6,656",58%,40%,145
+Facility (55802),,,gas,,,,,,,,,,-45,-47,

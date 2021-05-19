@@ -1,0 +1,37 @@
+Name (EIA ID),Status,County,Fuel,MW,Load,Age,Capacity_Factor,Run_hours/start,Heat_rate_MMBtu/MWh,CO2_tons/MWh,Nox_lbs/MWh,MWh_high_ozone_days,Pop.,percent_non-white,percent_low-income,CVI
+Burlington,Operating,Burlington,Natural,242,PSEG,53,2.00%,3.8,9.8,0.6,1,7.90%,"75,794",48%,28%,214
+Generating,,,gas,,,,,,,,,,,-60,-65,
+Station (2399),,,,,,,,,,,,,,,,
+Carll’s Corner,Operating,Upper,Natural,84,AECO,47,1.80%,5.8,24.3,1.5,17.8,3.90%,"25,279",69%,51%,202
+-2379,,Deerfield,gas,,,,,,,,,,,-74,-87,
+Cumberland,Operating,Millville,Natural,231,AECO,30,8.20%,7.8,9,0.5,0.3,1.00%,"4,102",39%,42%,183
+-5083,,,gas,,,,,,,,,,,-53,-80,
+Essex (2401),Operating,Newark,Natural,94,PSEG,49,1.20%,5.1,10,0.6,0.8,3.20%,"221,376",73%,42%,237
+,,,gas,,,,,,,,,,,-76,-80,
+Forked River,Operating,Forked,Natural,77,JCPL,31,1.40%,6.2,13.8,0.8,2.2,7.90%,"23,741",6%,19%,105
+-7138,,River,gas,,,,,,,,,,,-8,-51,
+Gilbert GT 14,Operating,Milford,Oil,,JCPL,,,,,,,,,,17%,
+,,,,161,,50,0.40%,4.7,11.6,0.8,1.4,0%,"5,254",3% (3),,94
+-2393,,,,,,,,,,,,,,,-28,
+Kearny (2404),Operating,Kearny,Natural,605,PSEG,53,7.10%,6,10,0.6,0.3,3.90%,"251,073",78%,40%,232
+,,,gas,,,,,,,,,,,-79,-78,
+Linden GT 15,Operating,Linden,Natural,384,PSEG,53,1.50%,4.9,12.3,0.8,0.6,8.60%,"155,967",74%,39%,224
+-2406,,,gas,,,,,,,,,,,-77,-77,
+Mickleton,Operating,Mickleton,Natural,71,AECO,46,1.00%,6.2,26,1.5,28.8,6.10%,"20,393",22%,22%,167
+-8008,,,gas,,,,,,,,,,,-34,-57,
+Ocean Peaking,Operating,Lakewood,Natural,383,JCPL,17,10.10%,13,10.1,0.6,0.3,9.70%,"83,116",25%,42%,153
+Power (55938),,,gas,,,,,,,,,,,-37,-80,
+Salem GT 16,Operating,Lower,Oil,,PSEG,,,,,,,,,,,
+,,,,383,,49,0.02%,1.3,30.9,2.5,37.1,0%,—,—,—,—
+-2410,,Alloways,,,,,,,,,,,,,,
+,,Creek,,,,,,,,,,,,,,
+,,Township,,,,,,,,,,,,,,
+Sayreville,Operating,Sayreville,Oil,212,JCPL,48,0.20%,3.4,17.9,1.2,2.7,0.10%,"55,684",44%,21%,179
+-2390,,,,,,,,,,,,,,-57,-55,
+Seaside Heights,Operating,Seaside,Oil,6,—,8,0.60%,—,11.9,1,26.6,—,36.7,NA%,23%,76
+Power Plant,,Heights,,,,,,,,,,,,-18,-58,
+-58172,,,,,,,,,,,,,,,,
+Sherman,Operating,Vineland,Natural,113,AECO,29,4.70%,7.8,12.8,0.8,0.9,4.40%,"22,610",63%,49%,206
+Avenue (7288),,,gas,,,,,,,,,,,-70,-86,
+West Station,Operating,Vineland,Oil,,—,,,,,,,,,67%,46%,
+-6776,,,,27,,48,0.30%,3.6,16.2,1.3,6.4,2.10%,"38,848",-73,-84,199
