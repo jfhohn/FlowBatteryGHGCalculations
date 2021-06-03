@@ -52,6 +52,7 @@ en_gen_sum = sum(en_cap);
 co2_gen_sum_all = sum(co2_gen_sum)
 en_gen_sum_all = sum(en_gen_sum)
 
+
 % get sum of peaker plants
 co2_pp_sum = sum(co2_pp);
 en_pp_sum = sum(en_pp);
